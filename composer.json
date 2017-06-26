@@ -1,6 +1,6 @@
 {
     "name": "codeurco/laravel-coconutpalm",
-    "description": "A Laravel 5 package which is a wrapper around opencoconut video encoding php library",
+    "description": "A Laravel 5 wrapper around opencoconut video encoding library",
     "keywords": [
         "coconutphp",
         "opencoconut",

@@ -1,0 +1,24 @@
+{
+    "name": "codeurco/laravel-coconutpalm",
+    "description": "A Laravel 5 package which is a wrapper around opencoconut video encoding php library",
+    "keywords": [
+        "coconutphp",
+        "opencoconut",
+        "video",
+        "laravel-opencoconut"
+    ],
+    "homepage": "https://github.com/codeurco/laravel-coconutpalm",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Naïm Khalifa",
+            "email": "info@codeur.co",
+            "homepage": "http://codeur.co",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "opencoconut/coconut": "2.*"
+    }
+}
